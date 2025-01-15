@@ -1,4 +1,6 @@
+pymongo
+python-telegram-bot
 pyTelegramBotAPI
-requests
-psutil
+certifi
+pytz
 
